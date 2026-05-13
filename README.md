@@ -1,7 +1,5 @@
 # expense_calculator
 python-based project
-# expense_calculator
-python-based project
 # Expense Tracker
 A simple and efficient command-line Expense Tracker built using Python.  
 This project helps users manage daily expenses by adding, viewing, deleting, and categorizing expenses through a menu-driven interface.
